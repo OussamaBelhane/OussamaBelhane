@@ -30,7 +30,7 @@ I’m a **Cyber Security student** from Morocco 🇲🇦, focusing on the **Blue
       <a href="https://discord.gg/Rqkv23RcVB" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo" />
       </a><br/><br/>
-      <a href="mailto:oussama.belhane@gmail.com" target="_blank">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=oussama.belhane@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo" />
       </a>
     </td>
